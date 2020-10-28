@@ -2,4 +2,4 @@
 
 Author twitter @malwarepeter
 
-downloads writeup at [Download](https://pages.github.com/).
+downloads writeup at [Download](https://github.com/fr334aks/RaziCTF-Writeups/blob/main/web/BABYWEB1.pdf).
