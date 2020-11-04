@@ -33,3 +33,10 @@ for i in range(1,21):
 print(io.recv().decode())
 
 ```
+Here's how the decoded image looked like with the shape position being denoted by a,b,c,d.
+
+![](https://github.com/fr334aks/RaziCTF-Writeups/blob/main/misc/sphinx/image1.png)
+
+Flag:
+
+![](https://github.com/fr334aks/RaziCTF-Writeups/blob/main/misc/sphinx/flag.png)
